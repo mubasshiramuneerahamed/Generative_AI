@@ -4,12 +4,12 @@
 
 Clone this Repo.
 ```bash
-  git clone https://github.com/Nisar-Ahamed-M/TNSDC-GENAI.git
+  git clone https://github.com/mubasshiramuneerahamed/TNSDC-GenAI.git
 ```
 
 Change Directory
 ```bash
-  cd TNSDC-GENAI
+  cd TNSDC-GenAI
 ```
 
 Install Dependencies.
